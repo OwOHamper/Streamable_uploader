@@ -6,6 +6,8 @@ Streamable uploader with just two clicks.
 
 ```bash
 pip install requests
+
+pip install pywin32
 ```
 1. Edit main.py with your streamable credentials.
 
